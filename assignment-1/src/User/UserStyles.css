@@ -1,0 +1,17 @@
+.Button {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    background-color: burlywood;
+    border: 2px solid brown;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.InputBox {
+    width: 200px;
+    padding: 5px;
+    margin: 10px auto;
+    background-color: cyan;
+    color: darkblue;
+}

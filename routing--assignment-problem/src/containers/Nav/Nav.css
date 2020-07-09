@@ -1,0 +1,19 @@
+.Nav ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.Nav li a,
+.Nav li a:visited {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.Nav li a:active,
+.Nav li .active,
+.Nav li a:hover {
+    color: blueviolet;
+}
+
